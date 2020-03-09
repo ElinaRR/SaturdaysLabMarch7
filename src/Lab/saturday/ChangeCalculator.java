@@ -68,6 +68,8 @@ public class ChangeCalculator {
 		System.out.println("1EUR notes: " + pay1);
 		// update the current change
 		change = change - 1 * pay1;
+		System.out.println("Test");
+		
 		// TODO finish the implementation of this problem 		
 	}
 }
